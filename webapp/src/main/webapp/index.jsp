@@ -7,7 +7,10 @@
     <label for="Name"><b>Enter your Full Name</b></label>
     <input type="text" placeholder="Enter Full Name" name="Name" id="Name" required>
     <br>
+
+
     <label for="mobile"><b>Enter mobile number</b></label>
+   
     <input type="text" placeholder="Enter moible number" name="mobile" id="mobile" required>
     <br>
 
