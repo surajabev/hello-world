@@ -4,13 +4,12 @@
     <p>Please fill in this form to create an account.</p>
 
     <hr>
-
-
     <label for="Name"><b>Enter your Full Name</b></label>
     <input type="text" placeholder="Enter Full Name" name="Name" id="Name" required>
     <br>
 
 
+<<<<<<< HEAD
 
    <label for="mobile"><b>Enter mobile number</b></label>
 
@@ -19,7 +18,14 @@
 
 
 
+=======
+    <label for="mobile"><b>Enter mobile number</b></label>
+   <input type="text" placeholder="Enter mobile number" name="mobile" id="mobile" required>
+>>>>>>> 6236b4dfe406ece25ff2d223ed30414c4531f2ba
     <br>
+
+
+
 
 
 
@@ -35,8 +41,8 @@
 
 
 
-    <label for="psw-repeat"><b>Repeat Password</b></label>
-    <input type="password" placeholder="Repeat Password" name="psw-repeat" id="psw-repeat" required>
+    <label for="psw-repeat"><b>Repeat  your Password</b></label>
+    <input type="password" placeholder="Repeat  your Password" name="psw-repeat" id="psw-repeat" required>
     <hr>
 
 
